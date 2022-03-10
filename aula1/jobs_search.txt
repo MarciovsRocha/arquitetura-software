@@ -1,0 +1,13 @@
+What are you bringing to the team?
+
+    * Scripting in Linux and Bash
+    * Knowledge of at least one of the following languages: Java, JavaScript, C#,
+    * Networking Basics
+    * Work experience with Azure DevOps, Ansible, Openshift, Kubernetes, GIT, Jenkins, Artifactory
+    * Experience with the CI/CD way of working
+    * Experience running applications in Docker containers
+
+If you want the attention of our recruiter, you are in possession of:
+• An Azure, or AWS certification
+
+Anual Salary: 85k (Moeda: Euro)
