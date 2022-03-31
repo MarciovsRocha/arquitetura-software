@@ -1,0 +1,88 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+identificar 30 questões guias
+
+01. qual tema iremos abordar junto à desinformação
+    Desinformação no meio acadêmico
+
+07. Como determinar se uma fonte é confiável ou não
+    Pela quantidade e qualidade de informações validadas
+
+
+04. O que é uma informação legítima
+    Critérios:
+        - Fundamentos
+        - Empirismo
+        - Lógica
+        - Pensamento Crítico
+        - Abordagem Central
+        -
+
+05. O que é uma informação não legítima
+    uma informação que por sua vez não possui as devidas caracteristicas de uma informação legitima
+
+02. Como diferenciar uma informação legítima de uma informação não legítima
+    podemos diferenciar uma informação legitima de uma não legitima apartir de suas caracteristicas
+
+06. Como separar informações legítimas de informações não legítimas
+    uma informação por sua vez, pode ser "desmembrada" em sub-informações, que atravez de testes realizados de autenticidade
+    podemos separar as informações letitima de não legitmas
+
+
+03. O que é informação?
+    informação é um conjunto de dados estruturados
+
+
+14. O que é conhecimento?
+    são informações processadas e adquiridas
+
+11. O que gera informação?
+    tudo aquilo que gera um certo volume de dados e atravez destes podemos por um meio de senso critico, juntar-los em prol da
+    criação de informação(humanos)
+
+09. Quais as categorias de informações?
+    -infomação ostensiva(passiva, ativa)
+    -informação sigilosa(classificada(ultrasecreta,secreta,reservada),sigilosa)
+
+13. Qual a diferença entre informação e conhecimento
+ informação são dados estruturados enquanto conhemimento são as informações processadas
+
+08. Como determinar o período válido de uma informação
+    comparar o período entre datas entre a validade da informação e o contexto histórico,
+    caso a informação não possua contexto histórico/validade a mesma deve repassar por uma validação de generalização
+
+10. Como evitar a parcialidade das informações
+
+12. Qual a importância da informação para a sociedade
+
+15. Como facilitar o acesso as fontes iniciais
+
+16. Como combater FAKE NEWS
+
+17. o que é informação ostensiva?
+
+18. o que é informação sigilosa?
+
+19. como definir se uma informação é genérica ou não?
+
+20. Qual é o público alvo?
+
+21. Como definir a abrangência?
+
+22. Como selecionar a área de especialidade?
+
+23. Quais são os atributos de uma informação
+
+24. Como definir a criticidade de uma informação com base em seus atributos.
+
+25. Como estimar o número de pessoas que sofrerá impactado com a informação
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+separá-las em categorias e prioriza-las?
+Após a seleção da especialidade será realizada verificação de abrangência da informação e com isso será definido o escopo de publico alvo que foi/será atingido. Com isso é possível categorizar os atributos de uma informação;
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Conclusão.
+Podemos continuar com o tema escolhido.
+Temos conhecimento suficiente a respeito do tema abordado: não.
+
