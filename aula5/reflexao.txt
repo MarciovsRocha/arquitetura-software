@@ -1,0 +1,4 @@
+* Preciso estudar mais qual conteúdo
+- Diagramas UML 
+- Diagramas de Sequência
+- Diagramas de Caso de Uso
