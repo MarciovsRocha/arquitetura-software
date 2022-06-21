@@ -1,0 +1,38 @@
+
+    Lista de Componentes e seus Relacionamentos
+    Desenho de um diagrama simples com todos os componentes do sistema
+    Tecnologias escolhidas
+    Detalhamento da Arquitetura (componente X tecnologia)
+
+------
+
+
+é necessário fazer um sistema para o RH:
+    - Gerenciamento de colaboradores
+    - Gerenciamento dos pedidos de aumento
+    - Gerenciamento de férias
+    - Integração com sistema legado de pagamento de salário
+
+
+Requisitos não funcionais
+    - Sistema deve funcionar offline
+    - Requisções por dia: 700 (CRUD)
+    - tamanho médio por usuario: 2Mb
+    - disponibilidade mínima: 99,5%
+    - Tamanho de arquivos digitalizados = 10mb
+
+    - Tamanho do DB: 1000 * 2Mb = 2Gb (media por usuario)
+    - Tamanho do sotrage para arquivos: 1000*10=10Gb
+
+Componentes: (Azure)
+    - Observação: Containerização das applicações de Cliente/Servidor para padronizar e agilizar e facilitar o deploy. Garantindo também alta escalabilidade e elasticidade.
+    - Servidor:
+        - Serviços:
+            - Recepção de Pedidos: REST API Java (Container APP)
+            - Tratamento de pedidos: Java Console (Container APP)
+            - Message Broker: RabbitMQ (Container APP)
+        - Banco de Dados: PostgreSQL - Blob Storage (Container APP)
+
+    - Cliente:
+        - Aplicação Mobile: Flutter
+        - Dashboard: Web App [Container] (Angular)
